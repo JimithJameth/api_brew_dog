@@ -25,3 +25,8 @@ h1{
 ul{
   align-content: center;
 }
+
+#beers{
+  list-style: none;
+
+}
